@@ -1,2 +1,2 @@
 ## Estudo de JavaScript
-Códigos de estudo da JS. Repositório iniciado em Agosto/2023.
+Códigos de estudo de JS. Repositório iniciado em Agosto/2023.
