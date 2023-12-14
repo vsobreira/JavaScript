@@ -1,0 +1,22 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calculadora básica em javascript",
+  "main": "appCalc.js",
+  "type": "module",
+  "scripts": {
+    "start": "node appCalc.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculadora",
+    "calculator",
+    "node.js",
+    "javascript"
+  ],
+  "author": "vSobreira",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
